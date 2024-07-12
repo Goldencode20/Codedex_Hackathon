@@ -46,3 +46,9 @@ I also want to sort them by who has the most in total
 
 Good morning!
 Time to comment my code and then try and sort my data
+
+9:40 Second Day
+I am unable to turn it into an EXE. I was able to make a GUI for the program and sort the data easily. 
+Overall I am happy with what I got done with the time I had.
+I might work on this more and work on sorting by sport and the like. 
+Time to upload
