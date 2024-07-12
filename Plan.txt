@@ -1,0 +1,48 @@
+1pm on the first day.
+
+I would like to use 2016 data to train an model to try and use for the 2024 olypics
+
+Basic Plan at the start 
+1) Basic historic data
+2) Looking at last year events
+3) Find who is competeting this year
+4) Attempt to make an ML model for the 2016 -> to 2021 then use it for 2024
+
+I am making a google slides to write down what I have done and track
+big measuerments
+
+2:40 on the first day
+
+I have looked at 2016 data and generated graphs and percents for a rough idea. 
+
+I want to make an UI for the user to use to estimate each country winning an events
+This would require me sorting by past events and country along with giving 
+more recent years a higher infulace compared to older years. 
+
+Could I look at the last 3 years of Summer Olympics and give each year a weight
+to calcaute the percent of a repreate happening. 
+(0.2)(2012 percent) + (0.4)(2016 percent) + (0.6)(2021 percent)
+As we get closer to today there is a higher chance of the same people. 
+
+This might not work becuase the data given does not have where countries have
+won thier medals
+
+11:14 on the first day
+I changed my dataset to all recoreded Olympic games and just pulled the 3 most recent games. 
+Since I had to redo everything it took awhile. I can not guess what percent of medals each Country 
+will win. I want to try to quickly also get a table with the number of medals each country will win.
+
+I sadly can not do my last two objectives (because I have an interview I need to study for and I can't mess up my sleep schulde) 
+and I wanted to drop them anyways and replace them with a GUI that would let you search for
+any country and it would tell you how many medals or the percent chance. I might wake up early
+tomorrow and try to quickly code the GUI. I have an enegy drink that might help. 
+
+11:29 on the first day
+I added the table it went quicker than expeted. I might be able to add the GUI if I wake up
+early enough. I also need to comment all my code. I have been lost in the excitment. 
+I also want to sort them by who has the most in total
+
+7:09 Second day
+
+Good morning!
+Time to comment my code and then try and sort my data
