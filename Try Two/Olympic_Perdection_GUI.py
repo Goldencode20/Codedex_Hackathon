@@ -21,10 +21,6 @@ def tk(medal_data) -> int:
     # Create Label 
     label2 = Label( root , text = "" ) 
 
-    # Change the label text 
-    def show(): 
-        label2.config( text = clicked.get() ) 
-
     # Dropdown menu options 
     options = medal_data['Country'].tolist()
 
@@ -51,10 +47,6 @@ def tk(medal_data) -> int:
     
     # Bind event to selection
     combo_box.bind("<<ComboboxSelected>>", on_select)
-
-    # Create button, it will change label text 
-    button = Button(root , text = "click Me" , command = show() )
-    button.pack()
 
     label2.pack() 
     
