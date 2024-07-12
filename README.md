@@ -4,6 +4,8 @@ This is to Predict how many medals each country might win in the Paris Olympics.
 
 This project started with using the data given but I realized about three hours in I wanted to use past years so I had to restart and scrap everything. This has a Python Notebook that process the data so that a python file can use the results. The python file uses Tkinter to make a GUI that any user can use. It gives the user the ability to pick the name from a drop box. Then it will output the Medals each country is predicted to win. 
 
+Data -> https://www.kaggle.com/datasets/amirba/olympic-sports-and-medals-18962021/data
+
 Side Notes:
 
 I have a try one and try two folder. Try two is the final project.
